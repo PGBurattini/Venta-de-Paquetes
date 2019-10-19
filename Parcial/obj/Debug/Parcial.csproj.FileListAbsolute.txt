@@ -1,0 +1,12 @@
+C:\Users\Laboratorio\Desktop\Parcial\Parcial\bin\Debug\Parcial.exe.config
+C:\Users\Laboratorio\Desktop\Parcial\Parcial\bin\Debug\Parcial.exe
+C:\Users\Laboratorio\Desktop\Parcial\Parcial\bin\Debug\Parcial.pdb
+C:\Users\Laboratorio\Desktop\Parcial\Parcial\obj\Debug\Parcial.csprojResolveAssemblyReference.cache
+C:\Users\Laboratorio\Desktop\Parcial\Parcial\obj\Debug\Parcial.exe
+C:\Users\Laboratorio\Desktop\Parcial\Parcial\obj\Debug\Parcial.pdb
+C:\Users\DucKing\Desktop\Parcial\Parcial\bin\Debug\Parcial.exe.config
+C:\Users\DucKing\Desktop\Parcial\Parcial\obj\Debug\Parcial.exe
+C:\Users\DucKing\Desktop\Parcial\Parcial\obj\Debug\Parcial.pdb
+C:\Users\DucKing\Desktop\Parcial\Parcial\bin\Debug\Parcial.exe
+C:\Users\DucKing\Desktop\Parcial\Parcial\bin\Debug\Parcial.pdb
+C:\Users\DucKing\Desktop\Parcial\Parcial\obj\Debug\Parcial.csprojResolveAssemblyReference.cache
